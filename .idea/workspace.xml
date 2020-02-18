@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a496c6-0c88-4974-84af-f41dea14fe1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rda" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6d275294-a3e0-4d9c-960d-1d9fbe9f1f35" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XygkHJLrQQ1MNjo205Ck5PF6oU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CommandClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommandClient" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommandClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a496c6-0c88-4974-84af-f41dea14fe1c" name="Default Changelist" comment="" />
+      <created>1582023889734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582023889734</updated>
+      <workItem from="1582023893773" duration="6585000" />
+      <workItem from="1582030630286" duration="40000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1582029435393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582029435393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="447" width="800" height="677" key="#Deployment" timestamp="1582029631146">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="549" y="447" width="800" height="677" key="#Deployment/0.27.3840.1520@0.27.3840.1520" timestamp="1582029631146" />
+    <state x="563" y="455" width="784" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582025903209">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="563" y="455" width="784" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.3840.1520@0.27.3840.1520" timestamp="1582025903209" />
+    <state x="496" y="713" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582026472345">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="496" y="713" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.3840.1520@0.27.3840.1520" timestamp="1582026472345" />
+    <state x="246" y="233" width="1708" height="1066" key="CommitChangelistDialog2" timestamp="1582029661753">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="246" y="233" width="1708" height="1066" key="CommitChangelistDialog2/0.27.3840.1520@0.27.3840.1520" timestamp="1582029661753" />
+    <state x="733" y="529" width="424" height="513" key="FileChooserDialogImpl" timestamp="1582030465276">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="733" y="529" width="424" height="513" key="FileChooserDialogImpl/0.27.3840.1520@0.27.3840.1520" timestamp="1582030465276" />
+    <state x="813" y="682" key="Github.ShareDialog" timestamp="1582030864521">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="813" y="682" key="Github.ShareDialog/0.27.3840.1520@0.27.3840.1520" timestamp="1582030864521" />
+    <state width="1874" height="425" key="GridCell.Tab.0.bottom" timestamp="1582030481200">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state width="1874" height="425" key="GridCell.Tab.0.bottom/0.27.3840.1520@0.27.3840.1520" timestamp="1582030481200" />
+    <state width="1874" height="425" key="GridCell.Tab.0.center" timestamp="1582030481199">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state width="1874" height="425" key="GridCell.Tab.0.center/0.27.3840.1520@0.27.3840.1520" timestamp="1582030481199" />
+    <state width="1874" height="425" key="GridCell.Tab.0.left" timestamp="1582030481198">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state width="1874" height="425" key="GridCell.Tab.0.left/0.27.3840.1520@0.27.3840.1520" timestamp="1582030481198" />
+    <state width="1874" height="425" key="GridCell.Tab.0.right" timestamp="1582030481199">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state width="1874" height="425" key="GridCell.Tab.0.right/0.27.3840.1520@0.27.3840.1520" timestamp="1582030481199" />
+    <state x="443" y="363" width="1024" height="845" key="SettingsEditor" timestamp="1582030669130">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="443" y="363" width="1024" height="845" key="SettingsEditor/0.27.3840.1520@0.27.3840.1520" timestamp="1582030669130" />
+    <state x="827" y="705" width="256" height="162" key="VCS.EditChangelistDialog" timestamp="1582029597353">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="827" y="705" width="256" height="162" key="VCS.EditChangelistDialog/0.27.3840.1520@0.27.3840.1520" timestamp="1582029597353" />
+    <state x="616" y="614" key="com.intellij.ide.util.TipDialog" timestamp="1582030630551">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="616" y="614" key="com.intellij.ide.util.TipDialog/0.27.3840.1520@0.27.3840.1520" timestamp="1582030630551" />
+    <state x="1229" y="483" width="1372" height="605" key="new project wizard" timestamp="1582026537698">
+      <screen x="0" y="27" width="3840" height="1520" />
+    </state>
+    <state x="1229" y="483" width="1372" height="605" key="new project wizard/0.27.3840.1520@0.27.3840.1520" timestamp="1582026537698" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/Client/target/
+/Domain/target/
+/Left_Infrastructure/target/
+/Right_Infrastructure/target/
